@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\xampp\\htdocs\\clark2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\xampp\\htdocs\\clark2\\theme\\eb4_basic\\head.html.php||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:theme\\eb4_basic\\head.html.php||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\xampp\\htdocs\\clark2\\theme\\eb4_basic\\tail.html.php||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:theme\\eb4_basic\\tail.html.php||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\xampp\\htdocs\\clark2\\theme\\eb4_basic\\css\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:theme\\eb4_basic\\css\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "tail.html.php",
+              "DocumentMoniker": "C:\\xampp\\htdocs\\clark2\\theme\\eb4_basic\\tail.html.php",
+              "RelativeDocumentMoniker": "theme\\eb4_basic\\tail.html.php",
+              "ToolTip": "C:\\xampp\\htdocs\\clark2\\theme\\eb4_basic\\tail.html.php",
+              "RelativeToolTip": "theme\\eb4_basic\\tail.html.php",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAB8AAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-09-14T12:36:45.204Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "head.html.php",
+              "DocumentMoniker": "C:\\xampp\\htdocs\\clark2\\theme\\eb4_basic\\head.html.php",
+              "RelativeDocumentMoniker": "theme\\eb4_basic\\head.html.php",
+              "ToolTip": "C:\\xampp\\htdocs\\clark2\\theme\\eb4_basic\\head.html.php",
+              "RelativeToolTip": "theme\\eb4_basic\\head.html.php",
+              "ViewState": "AgIAAHEAAAAAAAAAAAAcwIgAAABWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-09-14T11:18:54.465Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "style.css",
+              "DocumentMoniker": "C:\\xampp\\htdocs\\clark2\\theme\\eb4_basic\\css\\style.css",
+              "RelativeDocumentMoniker": "theme\\eb4_basic\\css\\style.css",
+              "ToolTip": "C:\\xampp\\htdocs\\clark2\\theme\\eb4_basic\\css\\style.css",
+              "RelativeToolTip": "theme\\eb4_basic\\css\\style.css",
+              "ViewState": "AgIAACEAAAAAAAAAAAAewDMAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-09-14T11:18:00.414Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
